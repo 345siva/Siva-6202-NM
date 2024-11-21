@@ -16,6 +16,6 @@ export default function About () {
             <p className='pb-5'>{config.line2}</p>
         </div>
            
-        </div>
+        </div>s
     </section>
 }
